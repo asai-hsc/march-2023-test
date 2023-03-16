@@ -211,7 +211,7 @@ ACCESS_TOKEN = '7340ad40-09b3-11eb-adc1-0242ac120002'
 SOURCE_1 = 'GYW2mMmpG327BtrdTnUL'
 
 # Generic weak password
-SOURCE_2 = 'redis'
+SOURCE_2 = 'rediss'
 
 # Generic weak password
 SOURCE_3 = 'opensaysme'
